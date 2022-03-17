@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wulune-productions/static/css/main.f0e4411a.css",
+    "main.js": "/wulune-productions/static/js/main.19ba80c3.js",
+    "index.html": "/wulune-productions/index.html",
+    "main.f0e4411a.css.map": "/wulune-productions/static/css/main.f0e4411a.css.map",
+    "main.19ba80c3.js.map": "/wulune-productions/static/js/main.19ba80c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0e4411a.css",
+    "static/js/main.19ba80c3.js"
+  ]
+}
