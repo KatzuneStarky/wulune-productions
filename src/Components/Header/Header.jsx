@@ -13,7 +13,7 @@ const Header = () => {
             <CTA />
             <HeaderSocial />
             <div className="me">
-                <img src="" alt="" />
+                <img src={"http://www.thejungleadventure.com/assets/images/noimage/noimage.png"} alt="" />
             </div>
             <a href="#contact" className='scroll__down'>Scrolea hacia abajo</a>
         </div>
